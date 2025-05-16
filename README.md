@@ -8,13 +8,13 @@ The *AMR Surveillance Dashboard* is an interactive web-based application built w
 
 ## Features
 
-- 🧼 **Cleans** & normalizes the `resistance_genes` column
-- 🌍 **Standardizes** country names using the `pycountry` package
-- 📊 **Interactive visualizations** for:
+- **Cleans** & normalizes the `resistance_genes` column
+- **Standardizes** country names using the `pycountry` package
+- **Interactive visualizations** for:
   - AMR resistance types
   - Lineage distribution
   - Sample geographic distribution on a world map
-- 🧭 **Sidebar filters** for:
+- **Sidebar filters** for:
   - Country / Region
   - Resistance type (e.g., MDR-TB, XDR-TB)
   - TB lineage
