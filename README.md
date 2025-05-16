@@ -1,6 +1,7 @@
 ## AMR surveillance dashboard
 
 The *AMR Surveillance Dashboard* is an interactive web-based application built with Streamlit for exploring global antimicrobial resistance (AMR) trends. It provides real-time insights into resistance profiles, genetic markers, and lineage distributions across countries, based on genomic surveillance data. Designed for public health researchers, genomic epidemiologists, & policy analysts, it supports data-driven decision-making & AMR tracking.
+
 ---
 ![Results](data/Global_AMR_Tracker_Dashbaord.png)
 ---
