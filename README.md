@@ -65,9 +65,11 @@ The uploaded TSV file should contain the following columns:
 
 ```bash
 
-**The Fleming Fund & The Open University**:
+**The Fleming Fund & The Open University**  
 
-https://www.open.edu/openlearncreate/course/index.php?categoryid=1985
+<a href="https://www.open.edu/openlearncreate/course/index.php?categoryid=1985">
+  <img src="https://www.open.edu/openlearncreate/pluginfile.php/1/theme_adaptable/logo/1718740339/ouoc-logo-800.png" alt="OpenLearn Create Logo" width="200">
+</a>
 
 ```
 
