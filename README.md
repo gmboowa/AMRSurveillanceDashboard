@@ -61,6 +61,7 @@ The uploaded TSV file should contain the following columns:
 - `tbprofiler_main_lineage`
 - `tbprofiler_sub_lineage`
 
+---
 ## Selected resources
 
 
