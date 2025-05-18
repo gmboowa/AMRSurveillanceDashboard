@@ -63,7 +63,7 @@ The uploaded TSV file should contain the following columns:
 
 ## Selected resources
 
-```bash
+
 
 ## The Fleming Fund & The Open University
 
