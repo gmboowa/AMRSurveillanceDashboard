@@ -65,7 +65,18 @@ The uploaded TSV file should contain the following columns:
 
 ```bash
 
-Selected courses: https://www.open.edu/openlearncreate/course/index.php?categoryid=1985
+**The Fleming Fund and The Open University:**
+
+https://www.open.edu/openlearncreate/course/index.php?categoryid=1985
+
+```
+
+```bash
+
+**Centre for Genomic Pathogen Surveillance:**
+
+https://amr.watch/
+
 
 ```
 
