@@ -65,12 +65,16 @@ The uploaded TSV file should contain the following columns:
 
 ```bash
 
-**The Fleming Fund & The Open University**  
+## 🧬 The Fleming Fund & The Open University
 
-<a href="https://www.open.edu/openlearncreate/course/index.php?categoryid=1985">
-  <img src="https://www.open.edu/openlearncreate/pluginfile.php/1/theme_adaptable/logo/1718740339/ouoc-logo-800.png" alt="OpenLearn Create Logo" width="200">
+<a href="https://www.open.edu/openlearncreate/course/index.php?categoryid=1985" target="_blank">
+  <img src="https://www.open.edu/openlearncreate/pluginfile.php/1/theme_adaptable/logo/1718740339/ouoc-logo-800.png" 
+       alt="OpenLearn Create Logo" 
+       width="250" 
+       style="margin-top: 10px; margin-bottom: 20px;">
 </a>
 
+Explore [OpenLearn Create Courses](https://www.open.edu/openlearncreate/course/index.php?categoryid=1985) developed in collaboration with the **Fleming Fund** and **The Open University**, focusing on antimicrobial resistance and laboratory capacity strengthening.
 ```
 
 ```bash
