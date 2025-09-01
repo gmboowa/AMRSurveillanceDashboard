@@ -78,7 +78,9 @@ The uploaded TSV file should contain the following columns:
 **🔗 [https://pathogen.watch/](https://pathogen.watch/)**
 
 ### EnteroBase  
-**🔗 [https://enterobase.warwick.ac.uk/](https://enterobase.warwick.ac.uk/)** 
+**🔗 [https://enterobase.warwick.ac.uk/](https://enterobase.warwick.ac.uk/)**
+
+
 ---
 
 ## License
