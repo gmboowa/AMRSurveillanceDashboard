@@ -78,8 +78,7 @@ The uploaded TSV file should contain the following columns:
 **🔗 [https://pathogen.watch/](https://pathogen.watch/)**
 
 ### EnteroBase  
-**🔗 [https://enterobase.warwick.ac.uk/](https://enterobase.warwick.ac.uk/)** – A powerful platform for assembling, analyzing, and interpreting bacterial genomes. It integrates genotyping, comparative genomics, phylogenetics, and antimicrobial-resistance prediction tools across a massive database (over 1.5 million bacterial strains) to support epidemiology and genomic surveillance efforts.:contentReference[oaicite:1]{index=1}
-
+**🔗 [https://enterobase.warwick.ac.uk/](https://enterobase.warwick.ac.uk/)** 
 ---
 
 ## License
