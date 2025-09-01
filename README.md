@@ -65,18 +65,20 @@ The uploaded TSV file should contain the following columns:
 ---
 ## Selected resources
 
-
-
-### The Fleming Fund & The Open University
-
+### The Fleming Fund & The Open University  
 **🔗 [Explore the courses on OpenLearn Create](https://www.open.edu/openlearncreate/course/index.php?categoryid=1985)**
 
-
-
-### Centre for Genomic Pathogen Surveillance
-
+### Centre for Genomic Pathogen Surveillance  
 **🔗 [https://amr.watch/](https://amr.watch/)**
 
+### AMRnet dashboard  
+**🔗 [https://www.amrnet.org/](https://www.amrnet.org/)**
+
+### Pathogen Watch  
+**🔗 [https://pathogen.watch/](https://pathogen.watch/)**
+
+### EnteroBase  
+**🔗 [https://enterobase.warwick.ac.uk/](https://enterobase.warwick.ac.uk/)** – A powerful platform for assembling, analyzing, and interpreting bacterial genomes. It integrates genotyping, comparative genomics, phylogenetics, and antimicrobial-resistance prediction tools across a massive database (over 1.5 million bacterial strains) to support epidemiology and genomic surveillance efforts.:contentReference[oaicite:1]{index=1}
 
 ---
 
