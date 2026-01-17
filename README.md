@@ -78,7 +78,7 @@ The uploaded TSV file should contain the following columns:
 **🔗 [https://amr.watch/](https://amr.watch/)**
 
 ### AMRnet dashboard  
-**🔗 [https://www.amrnet.org/](https://www.amrnet.org/)**
+**🔗 [AMRnet](https://www.amrnet.org/)**
 
 ### Pathogen Watch  
 **🔗 [https://pathogen.watch/](https://pathogen.watch/)**
